@@ -48,7 +48,7 @@ An interactive Power BI dashboard built using Walmart Weekly Sales data, analyzi
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 <img width="1542" height="862" alt="Walmart simple dashboard" src="https://github.com/user-attachments/assets/7f2a8a16-efd5-428d-89bd-d46adc2422b1" />
 
